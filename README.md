@@ -11,7 +11,7 @@
   </p>
 </p>
 
-# Run
+## Run
 ```sh
 docker-compose up
 ```
