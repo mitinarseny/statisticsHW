@@ -4,11 +4,11 @@
   </a>
   <h1 align="center">Statistics</h1>
   <p align="center">
-      Homework
-    <a href="https://nbviewer.jupyter.org/github/mitinarseny/statisticsHW/blob/master/index.ipynb">
-      <img align="right" alt="nbviewer" src="https://img.shields.io/badge/render-nbviewer-F37726.svg?logo=jupyter&style=flat-square">
-    </a>
+    Homework
   </p>
+  <a href="https://nbviewer.jupyter.org/github/mitinarseny/statisticsHW/blob/master/index.ipynb">
+    <img align="right" alt="nbviewer" src="https://img.shields.io/badge/render-nbviewer-F37726.svg?logo=jupyter&style=flat-square">
+  </a>
 </p>
 
 ## Run
